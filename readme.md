@@ -30,7 +30,9 @@
 
 
 <h2>СПИСОК</h2><br>
-![list.png](src%2Fmain%2Fresources%2Fenter%2Flist.png) <br>
+
+[//]: # (![list.png]&#40;src%2Fmain%2Fresources%2Fenter%2Flist.png&#41; <br>)
+<img src="src/main/resources/enter/list.png"><br>
 
 <tr>_______________________________________________</tr><br>
 
