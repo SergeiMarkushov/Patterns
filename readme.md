@@ -30,7 +30,7 @@
 
 
 <h2>СПИСОК</h2><br>
-![list.jpg](src%2Fmain%2Fresources%2Fenter%2Flist.jpg)<br>
+![list.jpg](src%2Fmain%2Fresources%2Fenter%2Flist.jpg) <br>
 
 <tr>_______________________________________________</tr><br>
 
