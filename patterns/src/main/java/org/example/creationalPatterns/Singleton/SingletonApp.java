@@ -1,4 +1,4 @@
-package org.example.structuralPatterns.Singleton;
+package main.java.org.example.creationalPatterns.Singleton;
 
 public class SingletonApp {
     public static void main(String[] args) throws InterruptedException {

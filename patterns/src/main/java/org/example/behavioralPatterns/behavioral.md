@@ -4,13 +4,13 @@
 
 К ним относятся:
 
-    Template Method, или Шаблонный метод;
-    Iterator, или Итератор;
-    Observer, или Наблюдатель;
-    Chain of Responsibility, или Цепочка обязанностей;
-    Command, или Команда;
-    Mediator, или Посредник;
-    Memento, или Хранитель;
-    Visitor, или Посетитель;
-    Strategy, или Стратегия;
-    State, или Состояние.
+Template Method, или Шаблонный метод;
+Iterator, или Итератор;
+Observer, или Наблюдатель;
+Chain of Responsibility, или Цепочка обязанностей;
+Command, или Команда;
+Mediator, или Посредник;
+Memento, или Хранитель;
+Visitor, или Посетитель;
+Strategy, или Стратегия;
+State, или Состояние.
