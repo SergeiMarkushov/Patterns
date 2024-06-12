@@ -13,7 +13,7 @@
 ### Основные условия для применения паттерна строитель:алгоритм создания сложного объекта не должен зависеть от того, из каких частей состоит объект и как они стыкуются между собой; процесс конструирования должен обеспечивать различные представления конструируемого объекта.
 
 ## Структура
-![builder](/main/resources/images/builder.png)
+![builder](https://github.com/SergeiMarkushov/Patterns/blob/master/patterns/src/main/resources/images/builder.png)
 
 # [ПРИМЕР](BuilderApp.java)
 # [РАСШИРЕНЫЙ ПРИМЕР](FullBuilder.java)
