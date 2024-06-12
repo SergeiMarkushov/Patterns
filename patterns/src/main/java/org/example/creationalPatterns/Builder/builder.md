@@ -1,4 +1,4 @@
-# ПАТТЕРН BUILDER (СТРОИТЕЛЬ)
+# ПАТТЕРН `BUILDER` (СТРОИТЕЛЬ)
 
 ## Название и классификация паттерна
 ### Строитель — паттерн, порождающий объекты.
@@ -16,4 +16,4 @@
 ![builder](https://github.com/SergeiMarkushov/Patterns/blob/master/patterns/src/main/resources/images/builder.png)
 
 # [ПРИМЕР](BuilderApp.java)
-# [РАСШИРЕНЫЙ ПРИМЕР](FullBuilder.java)
+# [ПРИМЕР 2](FullBuilder.java)

@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.State;
+package main.java.org.example.behavioralPatterns.State;
 
 public class StateApp {
     public static void main(String[] args) {

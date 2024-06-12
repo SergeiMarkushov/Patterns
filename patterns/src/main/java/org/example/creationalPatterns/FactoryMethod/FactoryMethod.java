@@ -1,4 +1,4 @@
-package org.example.creationalPatterns.FactoryMethod;
+package main.java.org.example.creationalPatterns.FactoryMethod;
 
 import java.util.Date;
 

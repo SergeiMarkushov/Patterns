@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Strategy;
+package main.java.org.example.behavioralPatterns.Strategy;
 
 import java.util.Arrays;
 

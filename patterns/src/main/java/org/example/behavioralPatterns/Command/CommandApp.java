@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Command;
+package main.java.org.example.behavioralPatterns.Command;
 
 public class CommandApp {
     public static void main(String[] args) {

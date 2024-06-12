@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Visitor;
+package main.java.org.example.behavioralPatterns.Visitor;
 
 public class VisitorProApp {
     public static void main(String[] args) {

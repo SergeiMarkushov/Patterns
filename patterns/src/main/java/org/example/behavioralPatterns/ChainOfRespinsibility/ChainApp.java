@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.ChainOfRespinsibility;
+package main.java.org.example.behavioralPatterns.ChainOfRespinsibility;
 
 // Логгер который присылает сообщения
 

@@ -1,4 +1,4 @@
-package org.example.creationalPatterns.Prototype;
+package main.java.org.example.creationalPatterns.Prototype;
 
 public class Prototype {
     public static void main(String[] args) {

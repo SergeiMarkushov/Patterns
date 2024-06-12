@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Memento;
+package main.java.org.example.behavioralPatterns.Memento;
 
 public class MementoApp {
     public static void main(String[] args) {

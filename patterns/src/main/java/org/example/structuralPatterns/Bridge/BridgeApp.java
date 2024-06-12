@@ -1,4 +1,4 @@
-package org.example.structuralPatterns.Bridge;
+package main.java.org.example.structuralPatterns.Bridge;
 
 public class BridgeApp {
     public static void main(String[] args) {

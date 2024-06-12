@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Iterator;
+package main.java.org.example.behavioralPatterns.Iterator;
 
 public class IteratorApp {
     public static void main(String[] args) {

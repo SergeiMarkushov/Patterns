@@ -1,6 +1,5 @@
-package org.example.structuralPatterns.Facade;
+package main.java.org.example.structuralPatterns.Facade;
 
-import java.util.concurrent.CopyOnWriteArrayList;
 
 public class FacadePattern {
     public static void main(String[] args) {

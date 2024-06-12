@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.TemplateMethod;
+package main.java.org.example.behavioralPatterns.TemplateMethod;
 
 public class TemplateMethodApp {
     public static void main(String[] args) {

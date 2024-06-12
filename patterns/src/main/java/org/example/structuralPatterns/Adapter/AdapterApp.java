@@ -1,4 +1,4 @@
-package org.example.structuralPatterns.Adapter;
+package main.java.org.example.structuralPatterns.Adapter;
 
 public class AdapterApp {
     public static void main(String[] args) {

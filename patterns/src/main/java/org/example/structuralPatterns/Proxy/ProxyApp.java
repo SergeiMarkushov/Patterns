@@ -1,4 +1,4 @@
-package org.example.structuralPatterns.Proxy;
+package main.java.org.example.structuralPatterns.Proxy;
 
 public class ProxyApp {
     public static void main(String[] args) {

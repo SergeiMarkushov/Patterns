@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Observer;
+package main.java.org.example.behavioralPatterns.Observer;
 
 import java.util.*;
 

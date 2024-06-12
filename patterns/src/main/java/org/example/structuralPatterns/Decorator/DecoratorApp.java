@@ -1,4 +1,4 @@
-package org.example.structuralPatterns.Decorator;
+package main.java.org.example.structuralPatterns.Decorator;
 
 import java.lang.reflect.ParameterizedType;
 

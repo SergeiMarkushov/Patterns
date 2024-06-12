@@ -1,4 +1,4 @@
-package org.example.structuralPatterns.Flyweight;
+package main.java.org.example.structuralPatterns.Flyweight;
 
 import java.util.ArrayList;
 import java.util.HashMap;

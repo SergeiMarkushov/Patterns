@@ -1,4 +1,4 @@
-package org.example.creationalPatterns.Builder;
+package main.java.org.example.creationalPatterns.Builder;
 
 public class FullBuilder {
     public static void main(String[] args) {

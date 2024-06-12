@@ -1,4 +1,4 @@
-package org.example.Delegate;
+package main.java.org.example.Delegate;
 
 public class DelegatePatternExampleWaiter {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.creationalPatterns.AbstractFactory;
+package main.java.org.example.creationalPatterns.AbstractFactory;
 
 public class AbstractFactory {
     public static void main(String[] args) {

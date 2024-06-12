@@ -1,4 +1,4 @@
-package org.example.behavioralPatterns.Interpreter;
+package main.java.org.example.behavioralPatterns.Interpreter;
 
 public class InterpreterApp {
     public static void main(String[] args) {
